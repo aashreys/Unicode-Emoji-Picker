@@ -233,7 +233,7 @@ emojiPickerTemplate.innerHTML = `
     }
     .title-bar .title {
       overflow: hidden;
-      font-size: 1.3em;
+      font-size: 1em;
       white-space: nowrap;
       text-overflow: ellipsis;
     }
